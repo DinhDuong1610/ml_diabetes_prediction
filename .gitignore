@@ -93,5 +93,7 @@ models/
 *.pth
 *.bin
 
+reports/
+
 # Log files
 *.log
