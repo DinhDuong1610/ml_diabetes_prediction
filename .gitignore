@@ -84,7 +84,7 @@ ipython_config.py
 #*.db
 
 # Model files
-models/
+/models/
 *.pkl
 *.pickle
 *.h5
