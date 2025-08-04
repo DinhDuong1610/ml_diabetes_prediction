@@ -3,6 +3,7 @@ import pandas as pd
 from sklearn.svm import SVC
 from sklearn.metrics import classification_report
 from sklearn.model_selection import GridSearchCV
+from lazypredict.Supervised import LazyClassifier
 import os
 
 def main():
